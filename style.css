@@ -433,3 +433,75 @@ nav.show div.icon-close {
 #contact .links ul li i {
     color: var(--base-color);
 }
+
+/* ============================ FOOTER ============================ */
+#footer {
+    background: var(--base-color);
+}
+
+#footer .logo.footer {
+    display: inline-block;
+    margin-bottom: 2.4rem;
+}
+
+#footer .logo.footer h2 span {
+    color: var(--body-color);
+}
+
+#footer .brand p { 
+    color: var(--body-color);
+}
+
+#footer .brand p:nth-child(2) {
+    margin-bottom: 1.2rem;
+}
+
+#footer i {
+    font-size: 2.4rem;
+    color: var(--text-color-light);
+}
+
+#footer .icon-box a {
+    display: inline-block;
+    transition: .3s;
+}
+
+#footer .icon-box a:hover {
+    transform: translateY(-8px);
+}
+
+#footer .container .icon-box i:nth-child(1) {
+    margin-right: 3.2rem;
+}
+
+#footer .container .icon-box i:nth-child(3) {
+    margin-left: 3.2rem;
+}
+
+/* back to top button */
+.back-to-top {
+    background: var(--base-color);
+    color: var(--text-color-light);
+    
+    position: fixed;
+    bottom: 1.6rem;
+    right: 1.6rem;
+
+    padding: 1rem;
+    clip-path: circle();
+
+    font-size: 2.4rem;
+    font-weight: 700;
+
+    visibility: hidden;
+    opacity: 0;
+
+    transition: .2s;
+    transform: translateY(100%);
+}
+
+.back-to-top.show {
+    visibility: visible;
+    opacity: 1;
+    transform: translateY(0);
+}
