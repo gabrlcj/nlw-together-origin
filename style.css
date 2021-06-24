@@ -342,3 +342,94 @@ nav.show div.icon-close {
     font-size: 2.4rem;
     margin-bottom: 1.2rem;
 }
+
+/* ============================ TESTIMONIALS ============================ */
+#testimonials {
+    background: white;
+}
+
+#testimonials .container {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#testimonials header {
+    margin-left: 2.4rem;
+    margin-right: 2.4rem;
+    margin-bottom: 0;
+}
+
+#testimonials blockquote {
+    padding: 3.2rem;
+    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.08);
+    border-radius: .4rem;
+}
+
+#testimonials blockquote p {
+    position: relative;
+    text-indent: 3rem;
+    margin-bottom: 2.4rem;
+    color: var(--title-color);
+}
+
+#testimonials blockquote p span {
+    font: 700 4.8rem serif;
+    
+    position: absolute;
+    top: -1.2rem;
+    left: -3.2rem;
+    color: var(--base-color);
+}
+
+#testimonials cite {
+    display: flex;
+    align-items: center;
+    color: var(--text-color);
+}
+
+#testimonials cite img {
+    width: 3.2rem;
+    height: 3.2rem;
+    object-fit: cover;
+    clip-path: circle();
+
+    margin-right: .8rem;
+}
+
+/* ------------ SWIPER ------------ */
+.swiper-slide {
+    height: auto;
+    padding: 6.4rem 1.6rem;
+}
+
+.swiper-pagination-bullet-active {
+    background: var(--base-color)
+}
+
+/* ============================ CONTACT ============================ */
+#contact .grid {
+    gap: 6.4rem;
+}
+
+#contact .text p {
+    margin-bottom: 3.2rem;
+}
+
+#contact .button i,
+#contact .links ul li i {
+    font-size: 2.4rem;
+    margin-right: 1rem;
+}
+
+#contact .links ul.grid {
+    gap: 3.2rem;
+}
+
+#contact .links ul li {
+    display: flex;
+    align-items: center;
+}
+
+#contact .links ul li i {
+    color: var(--base-color);
+}

@@ -28,3 +28,30 @@ window.addEventListener('scroll', () => {
         header.classList.remove('scroll')
     }
 })
+
+// UTILIZANDO BIBLIOTECA SWIPER, EFEITO CAROUSEL, SLIDER
+const swiper = new Swiper('.swiper-container', {
+    slidesPerView: 1,
+    pagination: {
+        el: '.swiper-pagination'
+    },
+    mousewheel: true,
+    keyboard: true
+})
+
+// SCROLL REVEAL mostra elementos ao dar scroll na pagina
+const scrollReveal = ScrollReveal({
+    origin: 'top',
+    distance: '30px',
+    duration: 680,
+    reset: true
+})
+
+scrollReveal.reveal(`
+    #home .image, #home .text,
+    #about .image, #about .text,
+    #services header, #services .card,
+    #testimonials header, #testimonials .testimonials,
+    #contact .text, #contact .links
+    `,
+ { interval: 100 })
