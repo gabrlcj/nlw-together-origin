@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="img/Logo.svg" alt="Logo">
+    <img src="img/logo.png" alt="Logo">
 </div>
 
 # NLW - Origin: OriginSix
@@ -17,9 +17,9 @@ Projeto desenvolvido na semana da NLW realizada pela **Rocketseat 🚀** com int
 ---
 
 ## 💬 Sobre
-<h4>
+<h6>
     O projeto realizado na semana da NLW (20/06 até 27/06), trouxe o <stong>OriginSix</strong> que consistia em construir um site <i>One Page</i>, podendo modificá lo por inteiro, dependendo da finalidade do mesmo.
-</h4>
+</h6>
 
 <div align="center">
     <img src="img/barra-navegaçao-OriginSix.png" alt="Barra de navegação">
@@ -38,21 +38,11 @@ Projeto desenvolvido na semana da NLW realizada pela **Rocketseat 🚀** com int
 
 ---
 
-## 📷 Imagens
+## 📷 Imagem
 
 <div align="center">
-    <strong>Seção Home:</strong>
-    <img src="img/inicio-originsix.png" alt="Seção Home">
-    <strong>Seção Sobre:</strong>
-    <img src="img/sobre-originsix.png" alt="Seção Sobre">
-    <strong>Seção Serviços:</strong>
-    <img src="img/serviços-originsix.png" alt="Seção Serviços">
-    <strong>Seção Depoimentos:</strong>
-    <img src="img/depoimentos-originsix.png" alt="Seção Depoimentos">
-    <strong>Seção Contato:</strong>
-    <img src="img/contato-originsix.png" alt="Seção Contato">
-    <strong>Footer:</strong>
-    <img src="img/footer-originsix.png" alt="Footer">
+    <strong>Uma pequena amostra de como fica o site:</strong>
+    <img src="img/preview.png" alt="Preview site">
 </div>
 
 ---
@@ -65,9 +55,9 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 * JavaScript
 
 ### Bibliotecas
-[Google Fonts](https://fonts.google.com/)
-[SwipeJS](https://swiperjs.com/)
-[ScrollReveal](https://scrollrevealjs.org/)
+* [Google Fonts](https://fonts.google.com/)
+* [SwipeJS](https://swiperjs.com/)
+* [ScrollReveal](https://scrollrevealjs.org/)
 
 ### Utilitários
   * [randomuser.me](https://randomuser.me/photos)
