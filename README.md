@@ -2,7 +2,8 @@
     <img src="img/logo.png" alt="Logo">
 </div>
 
-# NLW - Origin: OriginSix
+<h1 align="center">🖥️ NLW - Origin: OriginSix</h1>
+
 Projeto desenvolvido na semana da NLW realizada pela **Rocketseat 🚀** com intuito de promover um projeto do zero!
 
 <div align="center">
