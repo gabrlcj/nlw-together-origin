@@ -17,9 +17,9 @@ Projeto desenvolvido na semana da NLW realizada pela **Rocketseat 🚀** com int
 ---
 
 ## 💬 Sobre
-<h5>
+<p>
     O projeto realizado na semana da NLW (20/06 até 27/06), trouxe o <stong>OriginSix</strong> que consistia em construir um site <i>One Page</i>, podendo modificá lo por inteiro, dependendo da finalidade do mesmo.
-</h5>
+</p>
 
 <div align="center">
     <img src="img/barra-navegaçao-OriginSix.png" alt="Barra de navegação">
