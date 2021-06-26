@@ -29,12 +29,12 @@ Projeto desenvolvido na semana da NLW realizada pela **Rocketseat 🚀** com int
 
 ## ⚙️ Features
 
-    - [x] Rolamento de página por seção clicada
-    - [x] Smooth scroll
-    - [x] Barra de navegação hamburguer
-    - [x] Site responsivo
-    - [x] Links ativos
-    - [x] Botão back to top
+- [x] Rolamento de página por seção clicada
+- [x] Smooth scroll
+- [x] Barra de navegação hamburguer
+- [x] Site responsivo
+- [x] Links ativos
+- [x] Botão back to top
 
 ---
 
@@ -60,18 +60,18 @@ Projeto desenvolvido na semana da NLW realizada pela **Rocketseat 🚀** com int
 ## 🗃️ Tecnologias
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
-    * HTML
-    * CSS
-    * JavaScript
+* HTML
+* CSS
+* JavaScript
 
 ### Bibliotecas
-    * [Google Fonts](https://fonts.google.com/)
-    * [SwipeJS](https://swiperjs.com/)
-    * [ScrollReveal](https://scrollrevealjs.org/)
+[Google Fonts](https://fonts.google.com/)
+[SwipeJS](https://swiperjs.com/)
+[ScrollReveal](https://scrollrevealjs.org/)
 
 ### Utilitários
-    * [randomuser.me](https://randomuser.me/photos)
-    * [IcoonMoon](https://icomoon.io/)
+  * [randomuser.me](https://randomuser.me/photos)
+  * [IcoonMoon](https://icomoon.io/)
 
 
 ---
